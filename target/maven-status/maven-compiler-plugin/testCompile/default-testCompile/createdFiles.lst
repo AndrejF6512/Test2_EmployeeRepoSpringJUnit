@@ -1,0 +1,3 @@
+com\testF\spring\dataaccess\mock\EmployeeDaoMockImpl.class
+com\testF\spring\employee\EmployeeManagementServiceTest.class
+com\testF\spring\domain\EmployeeTest.class

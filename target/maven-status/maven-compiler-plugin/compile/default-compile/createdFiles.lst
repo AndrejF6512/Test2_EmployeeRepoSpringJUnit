@@ -1,0 +1,10 @@
+com\testF\spring\client\Client.class
+com\testF\spring\services\employee\EmployeeManagementServiceImpl.class
+com\testF\spring\services\task\TaskServiceImpl.class
+com\testF\spring\domain\Task.class
+com\testF\spring\services\task\TaskService.class
+com\testF\spring\services\employee\EmployeeManagementService.class
+com\testF\spring\dataaccess\EmployeeDao.class
+com\testF\spring\domain\Employee.class
+com\testF\spring\dataaccess\EmployeeDaoJpaImpl.class
+com\testF\spring\dataaccess\RecordNotFoundException.class
